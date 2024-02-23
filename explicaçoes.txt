@@ -1,0 +1,40 @@
+tags q ja foram explicadas ao decorrer do curso
+
+
+chamar div e id
+# id 
+. div
+
+margin "muda o espaçamento externo"
+padding "muda o espaçamento interno"
+width 
+text-aling "serve para alinhar texto"
+
+text-decoration "serve para decorar o texto"
+
+border "cria uma borda"
+
+font-size "serve para mudar o tamanho da fonte"
+
+color "serve para colocar cor nas coisas"
+
+font-family "serve para mudar o estilo das fontes"
+
+font-style "serve para colocar texto em italico ou deixar o texto normal"
+
+backround-color "coloca cor na parte de tras das coisas"
+
+font-weigth "muda a espessura da font deixa ela em negrito ou normal"
+
+height "muda a altura"
+
+list-style-type "muda estilo da lista"
+
+list-style-position "serve para mudar a posiçao da lista"
+
+overflow-y ou overflow-x: hidden;"serve para deixar o site sem scroll bar, bom para criar home page"
+
+flex-direction:colunm "serve para colocar em baixo"
+
+flex-direction:row "serve para colocar do lado"
+

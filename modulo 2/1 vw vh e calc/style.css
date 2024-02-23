@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+/*
+.sidebar{
+    float: left;
+    width: 300px;
+    height: 100%;
+    background-color: black;
+}
+
+.content{
+    float: left;
+    width: calc(100% - 300px);
+    height: 100%;
+    background-color: #ccc;
+}
+
+calc - serve para combinar % com px 
+*/
+
+/*
+.box{
+    width: calc((100% / 3) + 90px);
+    height: 90px;
+    background-color: green;
+}
+*/
+
+.box{
+    width: 100vw; /* viewport width = largura do viewport*/
+    height: 100vh;  /*viewport height = altura do viewport*/
+    background-color: red;
+}
+
+.box2{
+    width: 10px;
+    height: 9000px;
+}

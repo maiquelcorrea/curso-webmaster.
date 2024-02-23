@@ -1,0 +1,12 @@
+protocolo dns:é um sistema crucial para a funcionalidade da Internet. 
+Ele atua como um diretório de endereços que permite traduzir nomes de domínio legíveis por humanos, 
+como "www.exemplo.com", em endereços IP (Protocolo de Internet) numéricos, que são utilizados pelas máquinas para localizar
+recursos na rede.
+
+protocolo http: o HTTP é o protocolo que permite a comunicação entre navegadores e servidores web, possibilitando a 
+visualização de páginas da web e a transferência de informações pela Internet.
+
+
+
+
+

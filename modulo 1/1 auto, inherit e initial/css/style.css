@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*
+*
+*
+Estilo para o conteúdo do nosso site
+*
+*
+*/
+
+html,body{
+	height: 100%; 
+}
+
+.box{
+	width: 40%;
+	/* height por padrão é sempre automático */
+	height: 300px;
+	color: gray;
+}
+
+.box p{
+	color: initial ; /* ou ineherit */
+	background-color: inherit; /* ou initital */
+}
+
+/*
+@media screen and (max-width: 480px){
+	.box{
+		height: auto;
+	}
+}
+*/
